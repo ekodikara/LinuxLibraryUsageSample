@@ -1,4 +1,4 @@
-# Linux Library Usage Sample with libmagic
+# Linux Library Usage with libmagic
 Testing Linux Libs using libmagic.
 https://man7.org/linux/man-pages/man3/libmagic.3.html
 
