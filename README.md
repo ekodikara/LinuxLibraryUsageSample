@@ -6,7 +6,7 @@ https://man7.org/linux/man-pages/man3/libmagic.3.html
 `gcc -g libmagic.c -lmagic -o libmagic`
 ## Run
 `./libmagic your-file-path`
-### sample output:
+### Sample output:
 `./libmagic /usr/bin/vi`
 `Loading default magic database
 inode/symlink; charset=binary`
